@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+      html {
+        background: #312F2F;
+        margin: 0 auto;
+      }
+      
+      pre {
+        font-size: 14px;
+        border-width: 0px;
+        text-align: center;
+        color: white;
+        margin: 0px;
+        background: #312F2F;
+        font-family: Anton, sans-serif;
+      }
+      body {
+      width : 100%;
+      }
+      .sweet-alert h2 {
+      font-size: 25px !important;
+      font-family: 
+
+      }
+      .sweet-alert p {
+      font-size: 14px !important;
+      font-family: Anton, sans-serif;
+
+      }
+      .sweet-alert button{
+      font-size: 25px;
+      background: #84DCCF !important;
+      font-family: Anton, sans-serif;
+      
+      }
+
+      .swal2-html-container {
+      font-size: 14px !important;
+      font-family: Anton, sans-serif !important;
+      }
+
+      .swal2-styled.swal2-confirm {
+      font-size: 22px !important;
+      background: #84DCCF !important;
+      font-family: Anton, sans-serif !important;
+      
+      }
+
+      div.row {
+      background: #312F2F;
+      }
+      
+      h2 {
+          font-family: Anton, sans-serif;
+      }
+
+      
