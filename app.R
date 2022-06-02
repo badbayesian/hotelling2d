@@ -48,7 +48,7 @@ source(file="dbcredentials.R")
 # databaseName <- "dbname"
 
 # SQL Server Structure
-# clicks table: gameid (varchar), x (float), y (float)
+# clicks table: gameid (varchar), x (float), y (float), round (int)
 # games table: gameid (varchar), id (varchar), time (varchar)
 # scores table: score (float), gameid (varchar), name (varchar)
 # sessions table: ip (varchar), start (varchar), name (varchar), id (varchar)
