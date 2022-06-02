@@ -51,7 +51,7 @@ source(file="dbcredentials.R")
 # clicks table: gameid (varchar), x (float), y (float)
 # games table: gameid (varchar), id (varchar), time (varchar)
 # scores table: score (float), gameid (varchar), name (varchar)
-# sessions table: ip (varchar), start (varchar), name (varchar)
+# sessions table: ip (varchar), start (varchar), name (varchar), id (varchar)
 
 #################################################################
 ##                       Game Parameters                       ##
